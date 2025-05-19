@@ -9,7 +9,9 @@ The main goal is to gain hands-on experience with Kubernetes basics by setting u
 
 # Tools Used
 Minikube: For running a Kubernetes cluster locally.
+
 kubectl: Command-line tool to interact with Kubernetes clusters.
+
 Docker: To pull and run container images.
 
 # Project Structure
